@@ -60,7 +60,7 @@
     },
     {
       "id": "scene9",
-      "image": "./assets/img/hast.png",
+      "image": "https://mahendraplus.github.io/wedding/assets/img/hast.png",
       "text": "Hast Melap\n16 January 2025, 1:43 PM to 3:40 PM",
       "fontSize": "30px",
       "duration": 2000
