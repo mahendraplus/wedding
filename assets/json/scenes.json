@@ -1,0 +1,91 @@
+{
+  "scenes": [
+    {
+      "id": "scene1",
+      "image": "https://mahendraplus.github.io/wedding/assets/img/G1.png",
+      "text": "वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ ।\nनिर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा ॥",
+      "fontSize": "24px",
+      "duration": 5000
+    },
+    {
+      "id": "scene2",
+      "image": "https://mahendraplus.github.io/wedding/assets/img/namste.png",
+      "text": "ગેહલોત પરિવાર તરફથી હાર્દિક આમંત્રણ",
+      "fontSize": "28px",
+      "duration": 5000
+    },
+    {
+      "id": "scene3",
+      "image": "https://mahendraplus.github.io/wedding/assets/img/subhviva.png",
+      "title": "Mahendra & Ashweena",
+      "handImage": "https://mahendraplus.github.io/wedding/assets/img/hand.png",
+      "text": "Mr. Rameshbhai & Mrs. Hansaben\nsolicit your blessings for the auspicious occasion.",
+      "fontSize": "22px",
+      "duration": 5000
+    },
+    {
+      "id": "scene4",
+      "image": "https://mahendraplus.github.io/wedding/assets/img/ganesh.png",
+      "text": "Ganesh Sthapana\n14 January 2025, Morning",
+      "fontSize": "24px",
+      "duration": 5000
+    },
+    {
+      "id": "scene5",
+      "image": "https://mahendraplus.github.io/wedding/assets/img/pate.png",
+      "text": "Pate Basvanu Muhurat\n14 January 2025, 11:15 AM",
+      "fontSize": "24px",
+      "duration": 5000
+    },
+    {
+      "id": "scene6",
+      "image": "https://mahendraplus.github.io/wedding/assets/img/vanoli.png",
+      "text": "Vanoli\n14 January 2025, 8:15 PM",
+      "fontSize": "24px",
+      "duration": 5000
+    },
+    {
+      "id": "scene7",
+      "image": "https://mahendraplus.github.io/wedding/assets/img/fera.png",
+      "text": "Wedding\n16 January 2025",
+      "fontSize": "26px",
+      "duration": 5000
+    },
+    {
+      "id": "scene8",
+      "image": "https://mahendraplus.github.io/wedding/assets/img/jaan.png",
+      "text": "Jaan Prasthan\n16 January 2025, 6:15 AM",
+      "fontSize": "24px",
+      "duration": 5000
+    },
+    {
+      "id": "scene9",
+      "image": "./assets/img/hast.png",
+      "text": "Hast Melap\n16 January 2025, 1:43 PM to 3:40 PM",
+      "fontSize": "22px",
+      "duration": 5000
+    },
+    {
+      "id": "scene10",
+      "image": "https://mahendraplus.github.io/wedding/assets/img/bhojan.png",
+      "text": "Bhojan Samaarambh\n18 January 2025, 9:15 AM until the arrival",
+      "fontSize": "24px",
+      "duration": 5000
+    },
+    {
+      "id": "scene11",
+      "image": "https://mahendraplus.github.io/wedding/assets/img/bhojan.png",
+      "text": "Location: Hariom Farm, Sutharnesdi, Bhabhar, Banaskantha, Gujarat-385320",
+      "qrCodeImage": "https://mahendraplus.github.io/wedding/assets/img/bhojan.png",
+      "fontSize": "20px",
+      "duration": 5000
+    },
+    {
+      "id": "scene12",
+      "text": "With love and gratitude, we invite you to be part of our big day.",
+      "fontSize": "26px",
+      "buttonText": "Replay All Scenes",
+      "duration": 5000
+    }
+  ]
+}
